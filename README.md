@@ -156,6 +156,9 @@ Must-Read Papers on the Planning ability of Large Language Models (LLMs).
 
    *ICLR 2024 Conference Submission8605 Authors.* [[openreview](https://openreview.net/forum?id=dFcXJgnrGB)], 2023
 
+1. **LEBP — Language Expectation & Binding Policy: A Two-Stream Framework for Embodied Vision-and-Language Interaction Task Learning Agents**
+   Liu, H.; Liu, Y.; He, H.; and Yang, H. 2022a. LEBP - Lan- guage Expectation & Binding Policy: A Two-Stream Frame- work for Embodied Vision-and-Language Interaction Task Learning Agents. ArXiv, abs/2203.04637.
+
 ## :star: Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=AGI-Edgerunners/LLM-Planning-Papers&type=Date)](https://star-history.com/#AGI-Edgerunners/LLM-Planning-Papers&Date)
